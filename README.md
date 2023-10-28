@@ -1,1 +1,1 @@
-# CS50 online couseby Harvard
+# CS50 by Harvard University
